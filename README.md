@@ -19,6 +19,15 @@ N/A
 A marketing agency WANTS a codebase that follows accessibility standards SO THAT our own site is optimized for search engines.
 
 ## License
+N/A
+
+## Accessibility 
+WHEN I view the source code THEN I identify possible semantic HTML elements
+WHEN I view the structure of the HTML elements THEN I find that the elements follow a structure of styling and positioning
+ WHEN I view the image elements THEN I find alternative attributes
+ WHEN I view the heading attributes THEN they fall in proper order
+ WHEN I view the title element THEN I find a descriptive title
+
 
 ## Funtionality Advancements
 -Replaced div tags with semantic elements
