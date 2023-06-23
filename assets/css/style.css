@@ -109,7 +109,7 @@ main {
 }
 
 /*Compressed into one */
-.benefit-lead img ,.benefit-cost img, .benefit-cost img {
+.benefit-lead img ,.benefit-cost img, .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
