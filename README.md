@@ -12,6 +12,9 @@ Site URL Location: https://github.com/Starkoiii/horiseon-refactor
 
 A screenshot of the site: ![deployment-of-screenshot](assets/images/screencapture-file-Users-tuncho-bootcamp-Homework-Assignment-horiseon-refactor-index-html-2023-06-22-22_34_51.png)
 
+Access the site: [
+](https://starkoiii.github.io/horiseon-refactor/)
+
 - [License](#license)
 ## Installation
 N/A
